@@ -1,6 +1,7 @@
 {
   "name": "react-intro-components",
   "version": "1.0.0",
+  "homepage": "https://doryazar.github.io/homework-3-doryazar",
   "private": false,
   "dependencies": {
     "react": "^17.0.1",
