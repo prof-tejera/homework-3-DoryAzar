@@ -1,4 +1,4 @@
-## Homework 3
+## Homework 3 - Dory Azar
 
 In this assignment we will start to use React components. The goal of this assignment is to compose generic smaller components into larger more complex components. You will have to think about the information passed (props) from the larger parent components down to their child components. The components we will be creating are a login form, pager, and radio buttons. Below are some examples of how these might look:
 
