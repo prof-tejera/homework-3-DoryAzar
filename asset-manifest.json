@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/homework-3-DoryAzar/static/css/main.a298b4d4.chunk.css",
-    "main.js": "/homework-3-DoryAzar/static/js/main.d8b4e5b9.chunk.js",
-    "main.js.map": "/homework-3-DoryAzar/static/js/main.d8b4e5b9.chunk.js.map",
+    "main.css": "/homework-3-DoryAzar/static/css/main.18fd2b75.chunk.css",
+    "main.js": "/homework-3-DoryAzar/static/js/main.763002c2.chunk.js",
+    "main.js.map": "/homework-3-DoryAzar/static/js/main.763002c2.chunk.js.map",
     "runtime-main.js": "/homework-3-DoryAzar/static/js/runtime-main.8c9c6456.js",
     "runtime-main.js.map": "/homework-3-DoryAzar/static/js/runtime-main.8c9c6456.js.map",
-    "static/js/2.985aee06.chunk.js": "/homework-3-DoryAzar/static/js/2.985aee06.chunk.js",
-    "static/js/2.985aee06.chunk.js.map": "/homework-3-DoryAzar/static/js/2.985aee06.chunk.js.map",
+    "static/js/2.1337ac4c.chunk.js": "/homework-3-DoryAzar/static/js/2.1337ac4c.chunk.js",
+    "static/js/2.1337ac4c.chunk.js.map": "/homework-3-DoryAzar/static/js/2.1337ac4c.chunk.js.map",
     "index.html": "/homework-3-DoryAzar/index.html",
-    "static/css/main.a298b4d4.chunk.css.map": "/homework-3-DoryAzar/static/css/main.a298b4d4.chunk.css.map",
-    "static/js/2.985aee06.chunk.js.LICENSE.txt": "/homework-3-DoryAzar/static/js/2.985aee06.chunk.js.LICENSE.txt"
+    "static/css/main.18fd2b75.chunk.css.map": "/homework-3-DoryAzar/static/css/main.18fd2b75.chunk.css.map",
+    "static/js/2.1337ac4c.chunk.js.LICENSE.txt": "/homework-3-DoryAzar/static/js/2.1337ac4c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8c9c6456.js",
-    "static/js/2.985aee06.chunk.js",
-    "static/css/main.a298b4d4.chunk.css",
-    "static/js/main.d8b4e5b9.chunk.js"
+    "static/js/2.1337ac4c.chunk.js",
+    "static/css/main.18fd2b75.chunk.css",
+    "static/js/main.763002c2.chunk.js"
   ]
 }
