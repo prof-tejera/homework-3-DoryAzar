@@ -1,0 +1,40 @@
+/*
+* Stylesheet for inputs
+* @author: Dory A.Azar
+*/
+
+input {
+    max-width: 31.25rem;
+    background-color: transparent;
+    border: none;
+    margin: 0 1rem;
+    padding: 0;
+    padding-right: 1.25rem;
+    color: rgba(0, 0, 0, .87);
+    word-wrap: break-word;
+    outline: none;
+    display: flex;
+    flex: 100%;
+    -webkit-tap-highlight-color: transparent;
+    height: 2.75rem;
+    font-size: 1rem;
+}
+
+.inputContainer {
+    background: #fff;
+    display: flex;
+    border: 1px solid #dfe1e5;
+    box-shadow: none;
+    border-radius: 1.5rem;
+    z-index: 3;
+    height: 2.75rem;
+    margin: 1rem auto;
+    width: auto;
+    max-width: 36.25rem;
+}
+
+.inputContainer:hover  {
+    background-color: #fff;
+    box-shadow: 0 1px 6px rgb(32 33 36 / 28%);
+    border-color: rgba(223, 225, 229, 0);
+}
