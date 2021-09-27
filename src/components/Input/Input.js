@@ -3,9 +3,12 @@ import './Input.css';
 
 class Input extends Component {
 	render() {
+		
+		const { onChange, ...inputAttributes} = this.props;
+		
 		return (
 			<div className="inputContainer">
-				<input {...this.props} onChange={this.props.onChange}/>
+				<input {...inputAttributes} onChange={onChange}/>
 			</div>
 		);
 	}

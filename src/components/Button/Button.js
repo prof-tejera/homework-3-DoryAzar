@@ -4,7 +4,9 @@ import './Button.css';
 class Button extends Component {
 
   render() {
-    const { classifiers, selected, ...buttonAttributes } = this.props;
+    
+	const { classifiers, selected, ...buttonAttributes } = this.props;
+	
 	if (selected) {
 		return <button className={classifiers ?  `${classifiers}`: "selected-button"} {...buttonAttributes}>{this.props.text}</button>
 	} else {
