@@ -2,8 +2,16 @@ import { Component } from 'react';
 import './Button.css';
 
 class Button extends Component {
+
   render() {
-    return <button className="Default-button">{this.props.text}</button>;
+    
+	const { classifiers, selected, ...buttonAttributes } = this.props;
+	
+	if (selected) {
+		return <button className={classifiers ?  `${classifiers}`: "selected-button"} {...buttonAttributes}>{this.props.text}</button>
+	} else {
+		return <button className={classifiers ?? "default-button"} onClick={this.props.onClick} {...buttonAttributes}>{this.props.text}</button>
+	}
   }
 }
 
